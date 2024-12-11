@@ -13,5 +13,7 @@ return 1;
 }
 int result = square(n);
 std::cout << result << std::endl;
+result = cube(n);
+std::cout << result << std::endl;
 return 0;
 }
